@@ -35,11 +35,11 @@ Web Browser
 
 Arahkan direktori yang akan digunakan untuk menyimpan dengan terminal, kemudian jalankan perintah ini.
 ```bash
-git clone https://github.com
+git clone https://github.com/ekotriy/sistem-rekomendasi-jurusan-perguruan-tinggi.git
 ```
 2. **Download Project Zip**
 
-anda bisa download file project zip [disini](https://github.com/)
+anda bisa download file project zip [disini](https://github.com/ekotriy/sistem-rekomendasi-jurusan-perguruan-tinggi/archive/refs/heads/master.zip)
 
 ## Cara Menjalankan Aplikasi
 1. Import database 
